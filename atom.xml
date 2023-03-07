@@ -39,4 +39,68 @@
     
   </entry>
   
+  <entry>
+    <title>CFA（clash）使用教程</title>
+    <link href="https://blog.axuzi.com/posts/8362f185.html"/>
+    <id>https://blog.axuzi.com/posts/8362f185.html</id>
+    <published>2022-02-22T06:33:23.000Z</published>
+    <updated>2022-02-23T14:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1>CFA使用教程</h1><ul><li>1、点击配置</li></ul><p><img src="https://upyun.xuziboke.xyz/2022-02-22%20080315.png" alt=""></p><ul><li>2、点击+新配置，选URL导入链接</li></ul><p><img src="https://upyun.xuziboke.xyz/2022-02-22%20080321.png" alt=""></p><ul><li>3、 名称随意，粘贴订阅链接，更新时间可不填，点保存</li></ul><p><img src="https://upyun.xuziboke.xyz/2022-02-22%20080330.png" alt=""></p><ul><li>4、点击名称即可选中</li></ul><p><img src="https://upyun.xuziboke.xyz/2022-02-22%20080338.png" alt=""><br><img src="https://upyun.xuziboke.xyz/2022-02-22%20080342.png" alt=""></p><ul><li>5、</li></ul><p><img src="https://upyun.xuziboke.xyz/2022-02-22%20080401.png" alt=""></p><ul><li>6、</li></ul><p><img src="https://upyun.xuziboke.xyz/2022-02-22%20080425.png" alt=""></p>]]></content>
+    
+    
+    <summary type="html">🥧本文汇总Markdown格式以及外挂标签在网页端的渲染效果，可作为文档进行查询</summary>
+    
+    
+    
+    <category term="演示" scheme="https://blog.axuzi.com/categories/%E6%BC%94%E7%A4%BA/"/>
+    
+    
+    <category term="工具教程" scheme="https://blog.axuzi.com/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>压缩工具推荐(免费、无广告)</title>
+    <link href="https://blog.axuzi.com/posts/a0202f58.html"/>
+    <id>https://blog.axuzi.com/posts/a0202f58.html</id>
+    <published>2021-12-15T10:40:23.000Z</published>
+    <updated>2023-03-07T12:44:54.844Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Bandizip">Bandizip</h2><h3 id="官网下载地址：http-www-bandisoft-com">官网下载地址：<a href="http://www.bandisoft.com/">http://www.bandisoft.com/</a></h3><p><a href="https://imgtu.com/i/TSjiQg"><img src="https://s4.ax1x.com/2021/12/15/TSjiQg.png" alt="TSjiQg.png"></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Bandizip&quot;&gt;Bandizip&lt;/h2&gt;
+&lt;h3 id=&quot;官网下载地址：http-www-bandisoft-com&quot;&gt;官网下载地址：&lt;a href=&quot;http://www.bandisoft.com/&quot;&gt;http://www.bandisoft.com/&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="实用工具" scheme="https://blog.axuzi.com/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.axuzi.com/posts/4a17b156.html"/>
+    <id>https://blog.axuzi.com/posts/4a17b156.html</id>
+    <published>2019-12-31T16:00:00.000Z</published>
+    <updated>2023-03-07T12:07:29.536Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
 </feed>
