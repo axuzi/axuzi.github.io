@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://blog.axuzi.com/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.axuzi.com/box/gallery/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
@@ -74,7 +65,25 @@
   </url>
   
   <url>
-    <loc>https://blog.axuzi.com/personal/about/index.html</loc>
+    <loc>https://blog.axuzi.com/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.axuzi.com/life/music/index.html</loc>
+    
+    <lastmod>2023-03-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.axuzi.com/life/games/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -101,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://blog.axuzi.com/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.axuzi.com/life/movies/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
@@ -119,16 +119,7 @@
   </url>
   
   <url>
-    <loc>https://blog.axuzi.com/life/music/index.html</loc>
-    
-    <lastmod>2023-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.axuzi.com/site/census/index.html</loc>
+    <loc>https://blog.axuzi.com/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -146,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://blog.axuzi.com/life/games/index.html</loc>
+    <loc>https://blog.axuzi.com/site/census/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -156,6 +147,15 @@
   
   <url>
     <loc>https://blog.axuzi.com/site/time/index.html</loc>
+    
+    <lastmod>2023-03-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.axuzi.com/personal/about/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -181,19 +181,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://blog.axuzi.com/posts/8362f185.html</loc>
-    
-    <lastmod>2022-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://blog.axuzi.com/</loc>
-    <lastmod>2023-03-19</lastmod>
+    <lastmod>2023-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -201,28 +192,21 @@
   
   <url>
     <loc>https://blog.axuzi.com/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2023-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.axuzi.com/tags/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-03-19</lastmod>
+    <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.axuzi.com/tags/Markdown/</loc>
-    <lastmod>2023-03-19</lastmod>
+    <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.axuzi.com/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-03-19</lastmod>
+    <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -231,7 +215,7 @@
   
   <url>
     <loc>https://blog.axuzi.com/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-03-19</lastmod>
+    <lastmod>2023-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
